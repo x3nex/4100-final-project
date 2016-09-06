@@ -1,0 +1,248 @@
+body { font-family: impact;
+	color: white;
+	font-size: 25px;
+	margin: 0px auto;
+	max-width: 1366px;
+	background-color: black;
+}
+#header {
+	background-color: black;
+	overflow: hidden;
+	max-height: 100px;
+}
+#logo{
+    float: left;
+    margin: 0px 0px 0px 30px;
+    font-size: 80px;
+    max-height: 70px;
+    position: relative;
+    bottom: 80px;
+	color: yellow;
+}
+#pocetak{
+	color: yellow;
+}
+#telefon{
+    float: left;
+    margin: 0px;
+    font-size: 80px;
+    overflow: hidden;
+    max-width: 500px;
+    max-height: 200px;
+    position: relative;
+    bottom: 80px;
+    right: 30px;
+    padding-left: 50px;
+}
+#register{
+	float: right;
+}
+#register-text{
+	color: white;
+	font-family: sans-serif;
+	font-size: 40px;
+	position: relative;
+	bottom: 38px;
+	padding-top: 30px;
+	padding-right: 20px;
+}
+#hero {
+	text-align: right;
+	background-image: url("../img/hero.jpg");
+	height: 565px;
+	overflow: hidden;
+}
+#rezervacija{
+	color: yellow;
+	padding: 0px;
+	margin: 0px 30px;
+}
+#tabela {
+	display: block;
+	padding: 10px;
+	width: 219px;
+	margin-right: 30px;
+	display: inline-block;
+	padding: 10px;
+	font-size: 34px;
+}
+#button button{
+	margin: 0px 40px;
+	border-radius: 15px;
+	background: yellow;
+
+ }
+
+ #button {
+ 	margin-right: 60px;
+ }
+
+.manje {
+	font-size: 16px;
+	font-family: sans-serif;
+	padding-right: 10px;
+}
+#napomena {
+	color: yellow;
+	font-size: 15px;
+	font-family: sans-serif;	
+	padding: 0px;
+	margin-right: 10px;
+	position: relative;
+	bottom: 15px;
+}
+#first-section{
+	text-align: left;
+	background-color: yellow;
+	color: black;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	height: 313px;
+	font-family: impact;
+}
+#brzo{
+	margin-left: 30px;
+	font-size: 50px;
+	font-family: impact;
+}
+#brzoo{position: relative;
+	left: 230px;
+	top: 100px;
+	font-size: 34px;
+}
+#carro{ float: right;
+	margin-right: 10px;
+	position: relative; 
+    overflow:hidden;
+	bottom: 220px;
+}
+#plati{
+	position: relative;
+	bottom: 60px;
+	left: 40px;
+}
+#call-us-text{
+	overflow: hidden;
+	height: 100px;
+}
+#pozovi{ background-color: black;
+	font-size: 80px;
+	color: yellow;
+	position: relative;
+	bottom: 65px;
+	left: 290px;
+}
+#pozovi{ background-color: black;
+	font-size: 80px;
+	color: yellow;
+	position: relative;
+	bottom: 65px;
+	left: 290px;
+}
+#broj{
+	float: right;
+	position: relative;
+	bottom: 268px;
+	font-size: 80px;
+	right: 230px;
+	margin: 21px 0px 0px 0px;
+}
+#slikica{
+	color: yellow;
+}
+#pratite{background-color: yellow;
+overflow: hidden;
+font-size: 40px;
+text-align: center;
+padding: 10px;
+color: black;
+max-height: 50px;
+padding-left: 550px;
+margin-bottom: 0px;
+}
+#taxilevo {
+	position: absolute;
+	bottom: 10px;
+	top: 1040px;
+}
+#ono{
+	clear: both;
+	text-align: right;
+	font-size: 20px;
+	color: yellow;
+	font-weight: 100;
+	margin-top: 0px;
+}
+#dalje{
+	margin-top: 0px;
+	margin-right: 150px;
+	font-family: sans-serif;
+	font-size: 15px;
+	padding-top: 5px;
+	padding-bottom: 20px;
+}
+#Wifi{
+	background-color: yellow;
+	color: black;
+	font-size: 70px;
+	padding-left: 0px;
+	text-align: center;
+	margin:0px;
+	float: left;
+	overflow: hidden;
+}
+#Wifi p{
+	margin:0px;
+}
+.pro{
+	float: left;
+	max-width: 1066px;
+	max-height: 500px;
+	padding-top: 10px;
+
+}
+#bottom{
+	margin:0px;
+	float: left;
+	padding-left: 50px;
+	padding-top: 20px;
+}
+#onama{
+	float: left;
+	font-family: sans-serif;
+	font-size: 20px;
+    border-right: 5px solid yellow;
+	max-width: 600px;
+	margin:0px;
+	padding-right: 50px;
+}
+#onama h3{
+	color: yellow;
+	font-family: impact;
+	font-size:50px;
+	margin:0px;
+}
+#kontakt{
+	font-family: impact;
+	font-size: 35px;
+	max-width: 500px;
+	float: left;
+	margin:0px;
+	padding-left: 60px;
+}
+#kontakt h3{
+	color: yellow;
+	font-family: impact;
+	font-size: 50px;
+	margin:0px;
+}
+#phone{
+	color: yellow;
+}
+#mail{
+	color: yellow;
+}
+#place{
+	color: yellow;
+}
